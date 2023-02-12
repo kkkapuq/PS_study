@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ee8c6db-3d0d-46f4-b1ee-9b637a6cc200" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/백준/230212_백준_2579_계단 오르기/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/프로그래머스/레벨1/230212_프로그래머스_155652_둘만의 암호/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/230123_이코테_백준1439_뒤집기/3_문자열 뒤집기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/백준/230123_이코테_백준1439_뒤집기/3_문자열 뒤집기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/230124_백준_11724_연결 요소의 개수/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/백준/230124_백준_11724_연결 요소의 개수/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/230126_프로그래머스_42891_무지의 먹방 라이브/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/프로그래머스/레벨1/230126_프로그래머스_42891_무지의 먹방 라이브/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/230127_백준_1374_강의실/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/백준/230127_백준_1374_강의실/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/230128_백준_1263_시간 관리/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/백준/230128_백준_1263_시간 관리/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/230203_백준_1300_K번째 수/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/백준/230203_백준_1300_K번째 수/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,9 +46,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/fhrek/Desktop/ComputerStudy/ProblemSolving/Java/JavaAlgorithm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fhrek\Desktop\ComputerStudy\PS_study\Boong\Java\PS_study\src\main\java\BOJ" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
