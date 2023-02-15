@@ -27,8 +27,4 @@ def solution(A, B):
         if i == n-1:
             return -1
             
-            
-    
-    
-    
     return answer
