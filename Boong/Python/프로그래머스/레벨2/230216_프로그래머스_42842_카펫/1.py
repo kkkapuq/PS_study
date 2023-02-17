@@ -8,6 +8,8 @@
 1. 가로를 늘려보고 시행
 2. 안되면 세로도 늘려보기
 '''
+### 틀린 풀이
+'''
 
 def solution(brown, yellow):
     # 행과 열은 최소 3x3 임
@@ -35,3 +37,24 @@ def solution(brown, yellow):
             r += 1
         else:
             c += 1
+'''
+
+'''
+1. 가로를 a, 세로를 b라고 둬보자.
+2. yellow의 갯수는 (a-2)*(b-2)
+3. brown = 2a + 2b - 4 (모서리 4개)
+4. ab = total
+5. a = total / b
+'''
+
+def solution(brown, yellow):
+    # 행과 열은 최소 3x3 임
+    a, b = 3, 3
+    total = brown + yellow
+    for b in range(1, total+1):
+        a = total / b
+        # 가로는 세로보다 같거나 길다
+        if a >= b:
+            if 2*a + 2*b - 4 == brown:
+                return [a,b]
+        
