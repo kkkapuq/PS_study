@@ -11,22 +11,20 @@ import sys
 sys.setrecursionlimit(10000)
 
 n, m = map(int, input().split())
-# 4, 2로 예를들자
+# 5, 2로 예를들자
 s = []
+cnt = 0
 
 def dfs(v):
     if len(s) == m:
-        isAsc = True
-        for i in range(len(s)-1):
-            if s[i] > s[i+1]:
-                isAsc = False
-                break
-        if isAsc:
-            print(' '.join(map(str, s)))
-            return
+        print(' '.join(map(str, s)))
+        global cnt
+        cnt += 1
+        return
     for i in range(v, n+1):
         # i = 1
-        s.append(i)
-        dfs(i)
-        s.pop()
+            s.append(i)
+            dfs(i)
+            s.pop()
 dfs(1)
+print(cnt)
